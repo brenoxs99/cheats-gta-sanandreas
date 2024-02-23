@@ -13,7 +13,7 @@ h1 {
 div {
     
     font-family: 'Courier New';
-    background-color: #e5e0da9d;
+    background-color: #e5e0da6e;
     font-size: 17px;    
     background-size:cover; 
     padding: 5px;
@@ -22,8 +22,16 @@ div {
 body {
     margin: 0; /*removendo margens padrão do "body"*/
     padding: 0; /*removendo margens padrão do "body"*/
-    background-image: url(https://s.zst.com.br/cms-assets/2022/08/gta-san-andreas-corpo.webp);
+    background-image: url(img/img3.jpg);
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed; 
+}
+
+#div2 {
+    font-size: 18px;
+    font-family: Verdana;
+    background-color: #1673c400;
+    padding: 0;
+    margin: 0;
 }
