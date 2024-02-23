@@ -1,11 +1,12 @@
 h1 {
-    font-family:Impact; 
-    color: #0c6969;
-    font-size: 70px;    
+    font-family: Impact; 
+    letter-spacing: 4px;
+    color: #160101;
+    font-size: 80px;    
     text-align: center; 
     padding: 45px;
     margin:auto; 
-    text-shadow: 3px 3px 5px #e90505ef; 
+    text-shadow: 4px 4px 5px #d22f06; 
     border-radius: 0px;
 }
 
@@ -13,7 +14,7 @@ div {
     
     font-family: 'Courier New';
     background-color: #e5e0da9d;
-    font-size: 16px;    
+    font-size: 17px;    
     background-size:cover; 
     padding: 5px;
     border-radius: 65px; 
